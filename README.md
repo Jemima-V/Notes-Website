@@ -11,6 +11,6 @@ This Project Uses:
 - HTTP Requests
 - Foreign Key Relationships
 
-Use http://127.0.0.1:5000 to view web app
+Use http://127.0.0.1:5000 to view web app (requires code to be running)
 
 Requires Installation: flask, Flask-SQLAlchemy, flask-login 
